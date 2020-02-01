@@ -1,0 +1,21 @@
+[
+null,
+{
+	"ID": 1,
+	"Name": "Smelting",
+	"IconID": 1,
+	"ExpFormula": "10*level",
+	"MaxLevel": 10,
+	"Categories": ["Verhüttung","Waffen"],
+	"Background": "Lava1"
+},
+{
+	"ID": 2,
+	"Name": "Alchemie",
+	"IconID": 2,
+	"ExpFormula": "10*level",
+	"MaxLevel": 10,
+	"Categories": ["Tränke"],
+	"Background": "Lava1"
+}
+]

@@ -1,0 +1,181 @@
+[
+null,
+{
+	"ID": 1,
+	"Name": "Eisen Barren",
+	"IconIndex": 861,
+	"Result": 
+		[{
+			"Type": "item",
+			"ID": 11,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 10,
+			"Amount": 2
+		}],
+	"Discipline": 1,
+	"Category": ["Verhüttung"],
+	"XP": 1,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 4,
+	"Name": "Eisenschwert",
+	"IconIndex": 1104,
+	"Result": 
+		[{
+			"Type": "weapon",
+			"ID": 5,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 11,
+			"Amount": 2
+		},
+		{
+			"Type": "item",
+			"ID": 7,
+			"Amount": 1
+		}
+		],
+	"Discipline": 1,
+	"Category": ["Waffen"],
+	"XP": 1,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 5,
+	"Name": "Eisenaxt",
+	"IconIndex": 1136,
+	"Result": 
+		[{
+			"Type": "weapon",
+			"ID": 6,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 11,
+			"Amount": 2
+		},
+		{
+			"Type": "item",
+			"ID": 7,
+			"Amount": 1
+		}
+		],
+	"Discipline": 1,
+	"Category": ["Waffen"],
+	"XP": 2,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 6,
+	"Name": "Eisenstock",
+	"IconIndex": 1168,
+	"Result": 
+		[{
+			"Type": "weapon",
+			"ID": 7,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 11,
+			"Amount": 2
+		},
+		{
+			"Type": "item",
+			"ID": 7,
+			"Amount": 1
+		}
+		],
+	"Discipline": 1,
+	"Category": ["Waffen"],
+	"XP": 2,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 7,
+	"Name": "Eisenzepter",
+	"IconIndex": 1360,
+	"Result": 
+		[{
+			"Type": "weapon",
+			"ID": 8,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 11,
+			"Amount": 2
+		},
+		{
+			"Type": "item",
+			"ID": 7,
+			"Amount": 1
+		}
+		],
+	"Discipline": 1,
+	"Category": ["Waffen"],
+	"XP": 2,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 2,
+	"Name": "Heiltrank",
+	"IconIndex": 353,
+	"Result": 
+		[{
+			"Type": "item",
+			"ID": 1,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 9,
+			"Amount": 2
+		}],
+	"Discipline": 2,
+	"Category": ["Tränke"],
+	"XP": 1,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 3,
+	"Name": "Manatrank",
+	"IconIndex": 359,
+	"Result": 
+		[{
+			"Type": "item",
+			"ID": 2,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 8,
+			"Amount": 2
+		}],
+	"Discipline": 2,
+	"Category": ["Tränke"],
+	"XP": 1,
+	"LevelReq": 1,
+	"Learned": "start"
+}
+]
