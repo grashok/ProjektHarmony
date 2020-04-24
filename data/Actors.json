@@ -2,6 +2,6 @@
 null,
 {"id":1,"battlerName":"","characterIndex":5,"characterName":"!Flame","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"???","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"Actor1_6","characterIndex":7,"characterName":"character_set_sunset_shimmer___mane_six___spike_by_truefrenzy-d9wkn6a","classId":2,"equips":[1,11,7,10,0],"faceIndex":2,"faceName":"Spezial Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Spike","nickname":"Babydrache","note":"","profile":"Er ist dir beigtreten, jetzt wirst du ihn nicht mehr\nlos."},
-{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":6,"characterName":"Anon","classId":3,"equips":[2,0,6,9,0],"faceIndex":0,"faceName":"Spezial Face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Anonfilly","nickname":"","note":"","profile":""},
 {"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
 ]
