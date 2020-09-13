@@ -15,3 +15,4 @@
 	- Jede Klasse start jetzt mit dem Skill den sie auf Level 1 haben soll
 	- Anonfilly nimmt auch Kölsch alleine an.
 	- Berufe wurden etwas angepasst
+	- Man kann sich jetzt in der höhle nördlich des Gasthauses bewegen!

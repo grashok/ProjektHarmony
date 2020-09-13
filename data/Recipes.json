@@ -3,7 +3,7 @@ null,
 {
 	"ID": 1,
 	"Name": "Kupfer Barren",
-	"IconIndex": 861,
+	"IconIndex": 850,
 	"Result": 
 		[{
 			"Type": "item",
@@ -24,8 +24,8 @@ null,
 },
 {
 	"ID": 4,
-	"Name": "Eisenschwert",
-	"IconIndex": 1104,
+	"Name": "Kupferschwert",
+	"IconIndex": 1106,
 	"Result": 
 		[{
 			"Type": "weapon",
@@ -52,8 +52,8 @@ null,
 },
 {
 	"ID": 5,
-	"Name": "Eisenaxt",
-	"IconIndex": 1136,
+	"Name": "Kupferaxt",
+	"IconIndex": 1138,
 	"Result": 
 		[{
 			"Type": "weapon",
@@ -80,8 +80,8 @@ null,
 },
 {
 	"ID": 6,
-	"Name": "Eisenstock",
-	"IconIndex": 1168,
+	"Name": "Kupferstock",
+	"IconIndex": 1170,
 	"Result": 
 		[{
 			"Type": "weapon",
@@ -108,8 +108,8 @@ null,
 },
 {
 	"ID": 7,
-	"Name": "Eisenzepter",
-	"IconIndex": 1360,
+	"Name": "Kupferzepter",
+	"IconIndex": 1362,
 	"Result": 
 		[{
 			"Type": "weapon",
@@ -179,7 +179,7 @@ null,
 	"Learned": "start"
 },
 {
-	"ID": 1,
+	"ID": 8,
 	"Name": "Buch der Flamme",
 	"IconIndex": 1537,
 	"Result": 
@@ -196,6 +196,28 @@ null,
 		}],
 	"Discipline": 3,
 	"Category": ["Bücher"],
+	"XP": 1,
+	"LevelReq": 1,
+	"Learned": "start"
+},
+{
+	"ID": 9,
+	"Name": "Kleine Bombe",
+	"IconIndex": 218,
+	"Result": 
+		[{
+			"Type": "item",
+			"ID": 15,
+			"Amount": 1
+		}],
+	"Requires":
+		[{
+			"Type": "item",
+			"ID": 16,
+			"Amount": 2
+		}],
+	"Discipline": 4,
+	"Category": ["Bomben"],
 	"XP": 1,
 	"LevelReq": 1,
 	"Learned": "start"
