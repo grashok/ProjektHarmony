@@ -2,11 +2,11 @@
 null,
 {
 	"ID": 1,
-	"Name": "Smelting",
+	"Name": "Schiedekunst",
 	"IconID": 1,
 	"ExpFormula": "10*level",
 	"MaxLevel": 10,
-	"Categories": ["Verhüttung","Waffen"],
+	"Categories": ["Verhüttung","Waffen","Ruestungen"],
 	"Background": "Lava1"
 },
 {
@@ -16,6 +16,24 @@ null,
 	"ExpFormula": "10*level",
 	"MaxLevel": 10,
 	"Categories": ["Tränke"],
+	"Background": "Lava1"
+},
+{
+	"ID": 3,
+	"Name": "Inschriftenkunde",
+	"IconID": 3,
+	"ExpFormula": "10*level",
+	"MaxLevel": 10,
+	"Categories": ["Bücher"],
+	"Background": "Lava1"
+},
+{
+	"ID": 4,
+	"Name": "Ingenieurskunst",
+	"IconID": 4,
+	"ExpFormula": "10*level",
+	"MaxLevel": 10,
+	"Categories": ["Bomben"],
 	"Background": "Lava1"
 }
 ]
